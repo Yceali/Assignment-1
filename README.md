@@ -17,5 +17,5 @@ Oynanış ve Kurallar
 
 
 Notlar:
-Oyunun bütün bölümleri değil örnek teşkil edecek 3 adet bölüm tasarlanmıştır. Şuan menüden başlayan oyun sıralı olarak bölümleri size oynatır. Sistem ileride ana menüde bölüm seçilebilecek ve seçilen bölümden başlatılacak şekilde tasarlanmıştır fakat o özelliği gameplay'e dahil olmadığını düşündüğüm için henüz eklemedim. Oyundaki scriplerin neredeyse tamamı tarafımdan kodlanmıştır. Şuan için kodların optimizasyon sıkıntısı yaratabileceğinin farkındayım. Zamandan kazanmak için optimizasyonda sıkıntı yaratabilecek kısımlar üzerinde fazlaca durmadım. Kullanılan hazır assetler ise /Sources klasörü altında bulunmaktadır.
+Oyunun bütün bölümleri değil örnek teşkil edecek 3 adet bölüm tasarlanmıştır. Şuan menüden başlayan oyun sıralı olarak bölümleri size oynatır. Sistem ileride ana menüde bölüm seçilebilecek ve seçilen bölümden başlatılacak şekilde tasarlanmıştır fakat o özelliği gameplay'e dahil olmadığını düşündüğüm için henüz eklemedim. Oyundaki scriptlerin neredeyse tamamı tarafımdan kodlanmıştır. Şuan için kodların optimizasyon sıkıntısı yaratabileceğinin farkındayım. Zamandan kazanmak için optimizasyonda sıkıntı yaratabilecek kısımlar üzerinde fazlaca durmadım. Kullanılan hazır assetler ise /Sources klasörü altında bulunmaktadır.
 
